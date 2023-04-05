@@ -10,6 +10,8 @@ I co-authored “[The Cloud Adoption Playbook](https://www.amazon.de/Cloud-Adopt
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Karate, Dogs, Mountains
 
+Most of my activity on Git is inside of IBM, so you won't see much code here.
+
 <!--
 **ingoa/ingoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
